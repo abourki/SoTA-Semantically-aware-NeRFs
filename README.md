@@ -1,6 +1,8 @@
 # Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review [Journal Pre-print]
 Welcome to the official repository of **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review** (Journal Pre-print).
 
+### Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
+
 Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, and [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
 
 (*: Denotes equal contribution).
@@ -8,18 +10,24 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, and [
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)
 
 
-  [[Paper]]()     [[arXiv]](https://arxiv.org/)     [[Website]](https://arxiv.org/)
+  [[Paper]()]     [[arXiv](https://arxiv.org/)]     [[Website](https://arxiv.org/)]
 
 
+## 1. Introduction
 This repository presents a comprehensive review of recent works in the field of Neural Radiance Fields (NeRFs), with a specific focus on the integration of semantic information for enhanced visual scene understanding. Neural radiance fields have demonstrated the potential of coordinate-based neural representation, also known as neural fields or implicit neural representation. Our review aims to provide a detailed analysis of the advancements in this area, shedding light on the significance of semantically-aware NeRFs in various applications.
 
 
-# 1. Comparative Overview of Previous NeRF Studies
+
+## 2. Comparative Overview of Previous NeRF Studies
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/84cec94a-6c82-4307-b8c7-20dc37d0ea16)
 
+#### Comparative overview of previously existing NeRF surveys w.r.t semantic considerations. 
+'Semantic Tasks' include: G: 3D Geometry Enhancement, S: Segmentation, E: Editable NeRFs,
+O: Object Detection and 6D Pose, H: Holistic Decomposition, L: NeRFs and Language, .: denotes missing task. 
+'Semantic Focus' refers to whether the primary focus of the study is on semantics. *: Interesting reference, but not a journal paper.
 
-# 2. Taxonomy of our Study on Semantically-aware NeRFs
+## 3. Taxonomy of our Study on Semantically-aware NeRFs
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/b321080b-3282-4f94-b528-9f8959057778)
 
@@ -29,9 +37,9 @@ This repository presents a comprehensive review of recent works in the field of 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/fff8b4a2-917f-4fde-9d53-04cc52f3eb34)
 
 
-# 3. Datasets and Evaluation
+## 4. Datasets and Evaluation
 
-## Overview of existing datasets for SRF-based multi-view scene understanding.
+### Overview of existing datasets for SRF-based multi-view scene understanding.
 Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respectively denoted with S and O above.
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/71ae6de8-ad3e-4015-aebb-05d998879cfd)
