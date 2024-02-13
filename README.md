@@ -5,7 +5,11 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Moham
 
 *: equal coontribution.
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)
+<p align="center">
+  <a href="http://flybo.org/"><img width= 650 src="![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)"></a>
+</p>
+
+
 
 # 1. Comparative Overview of Previous NeRF Studies
 
@@ -53,13 +57,14 @@ Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respect
 ## Citation
 If you find this work useful, please consider citing it as follows:
 
-> @article{guo2020deep,
-  title={Deep learning for 3d point clouds: A survey},
-  author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
-  journal={IEEE transactions on pattern analysis and machine intelligence},
-  year={2020},
-  publisher={IEEE}
+```
+@inproceedings{SRFs2024,
+  title={Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review},
+  author={Nguyen, Thang-Anh-Quan Nguyen and Bourki, Amine and Macudzinski, Matyas and Brunel, Anthony and Bennamoun, Mohammed},
+  journal={arXiv preprint arXiv:2xxxx},
+  year={2024}
 }
+```
 
 # Permalink to the Most Up-to-date Version of our Paper
 
