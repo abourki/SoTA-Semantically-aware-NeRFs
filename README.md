@@ -7,11 +7,12 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, [Moha
   
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)
 
-<p style="text-align: center;">
-
-[[Paper]]() [[arXiv]](https://arxiv.org/) [[Website]](https://arxiv.org/)
-
+<p align="center">
+  [[Paper]]() [[arXiv]](https://arxiv.org/) [[Website]](https://arxiv.org/)
+  <img src="[http://some_place.com/image.png](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)" />
 </p>
+
+
 
 This repository presents a comprehensive review of recent works in the field of Neural Radiance Fields (NeRFs), with a specific focus on the integration of semantic information for enhanced visual scene understanding. Neural radiance fields have demonstrated the potential of coordinate-based neural representation, also known as neural fields or implicit neural representation. Our review aims to provide a detailed analysis of the advancements in this area, shedding light on the significance of semantically-aware NeRFs in various applications.
 
