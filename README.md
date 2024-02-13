@@ -19,7 +19,7 @@ This repository presents a comprehensive review of recent works in the field of 
 We invite you to explore the wealth of information and insights offered by this repository, which includes a curated list of papers, datasets, and comprehensive benchmark results related to semanticaly-aware NeRFs in the context of visual scene understanding.
 
 ### Contact
-Please feel free to [contact me](mailto:amine.bourki@inception-lab.com), or open a [github issue](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/issues) to share suggestions for improvements, insights, or if you want to contribute with new results or references!
+Please feel free to [contact me](mailto:amine.bourki@inception-lab.com), or open a [github issue](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/issues) if you have suggestions for improvements, insights, or if you'd like to contribute with new results or references!
 
 
 ## 2. Comparative Overview of Previous NeRF Studies
