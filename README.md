@@ -5,21 +5,25 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Moham
 
 (*: Denotes equal contribution).
 
-![](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)
+
 
 
 
 
 # 1. Comparative Overview of Previous NeRF Studies
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/b49c5b27-8ba3-4f89-b2da-045ae4e7b4ad)
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/84cec94a-6c82-4307-b8c7-20dc37d0ea16)
+
 
 # 2. Taxonomy of our Study on Semantically-aware NeRFs
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/1f4d4f96-f5b9-404d-96e7-2a9dafbfc1f8)
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/b321080b-3282-4f94-b528-9f8959057778)
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/c6418018-5304-45d3-8f0e-e02983ec7174)
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/9bf9ee8f-a8fb-4aff-bf51-05399a001e44)
 
+
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/fff8b4a2-917f-4fde-9d53-04cc52f3eb34)
 
 
 # 3. Datasets and Evaluation
@@ -27,7 +31,8 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Moham
 ## Overview of existing datasets for SRF-based multi-view scene understanding.
 Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respectively denoted with S and O above.
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/f6b35395-9187-43cc-ad7d-d263fc1a60df)
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/71ae6de8-ad3e-4015-aebb-05d998879cfd)
+
 
 
 
