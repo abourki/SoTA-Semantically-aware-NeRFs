@@ -2,6 +2,7 @@
 [Journal Pre-print] Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
 
 Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Mohammed Bennamoun
+
 *: equal coontribution.
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)
