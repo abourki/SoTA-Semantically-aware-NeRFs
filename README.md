@@ -7,9 +7,9 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, [Moha
   
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)
 
-<p align="center">
-  [Paper]() [arXiv](https://arxiv.org/) [Website](https://arxiv.org/)
-</p>
+
+        [Paper]() [arXiv](https://arxiv.org/) [Website](https://arxiv.org/)
+
 
 
 
