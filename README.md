@@ -1,7 +1,7 @@
 # Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review [Journal Pre-print]
 Welcome to the official repository of **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review** (Journal Pre-print).
 
-Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
+Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, and [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
 
 (*: Denotes equal contribution).
   
