@@ -50,6 +50,17 @@ Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respect
 | **Shapenet~\cite{chang2015shapenet}**           | arXiv 2015         | -                     | -                   | O                       | Objects           | CAD model                    | 3D part segmentation                      | \Dhref{https://shapenet.org/}{\faLink}                                                  |
 | **KITTI~\cite{geiger2012we, geiger2013vision}** | CVPR 2012          | 22                    | 15K                 | S+O                     | Urban             | RGB                          | LiDAR                                     | \makecell[l]{2D/3D object boxes                                                         |
 
+## Citation
+If you find this work useful, please consider citing it as follows:
+
+> @article{guo2020deep,
+  title={Deep learning for 3d point clouds: A survey},
+  author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2020},
+  publisher={IEEE}
+}
+
 # Permalink to the Most Up-to-date Version of our Paper
 
 [arXiv link](https:google.com)
