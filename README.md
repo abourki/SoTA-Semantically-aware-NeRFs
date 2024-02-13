@@ -4,8 +4,27 @@
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)
 
+# 1. Comparative Overview of Previous NeRF Studies
 
-# 2. Datasets and Evaluation
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/b49c5b27-8ba3-4f89-b2da-045ae4e7b4ad)
+
+# 2. Taxonomy of our Study on Semantically-aware NeRFs
+
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/1f4d4f96-f5b9-404d-96e7-2a9dafbfc1f8)
+
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/c6418018-5304-45d3-8f0e-e02983ec7174)
+
+
+
+# 3. Datasets and Evaluation
+
+## Overview of existing datasets for SRF-based multi-view scene understanding.
+Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respectively denoted with S and O above.
+
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/f6b35395-9187-43cc-ad7d-d263fc1a60df)
+
+
+
 
 | **\textbf{Datasets}**                           | **\textbf{Venue}** | **\textbf{\#Scenes}** | **\textbf{\#Imgs}** | **\textbf{Centricity}** | **\textbf{Type}** | **\textbf{Data Modalities}** | **\textbf{Annotations}**                  | **\textbf{URL}**                                                                        |
 |-------------------------------------------------|--------------------|-----------------------|---------------------|-------------------------|-------------------|------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------|
@@ -27,3 +46,7 @@
 | **SUN RGB-D~\cite{song2015sun}**                | CVPR 2015          | 47                    | 10.3K               | S+O                     | Indoor            | RGB-D                        | \makecell[l]{2D/3D object boxes           |
 | **Shapenet~\cite{chang2015shapenet}**           | arXiv 2015         | -                     | -                   | O                       | Objects           | CAD model                    | 3D part segmentation                      | \Dhref{https://shapenet.org/}{\faLink}                                                  |
 | **KITTI~\cite{geiger2012we, geiger2013vision}** | CVPR 2012          | 22                    | 15K                 | S+O                     | Urban             | RGB                          | LiDAR                                     | \makecell[l]{2D/3D object boxes                                                         |
+
+# Permalink to the Most Up-to-date Version of our Paper
+
+[arXiv link](https:google.com)
