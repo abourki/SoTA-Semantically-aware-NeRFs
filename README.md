@@ -2,6 +2,9 @@
 [Journal Pre-print] Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
 
 
+![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f)
+
+
 # 2. Datasets and Evaluation
 
 | **\textbf{Datasets}**                           | **\textbf{Venue}** | **\textbf{\#Scenes}** | **\textbf{\#Imgs}** | **\textbf{Centricity}** | **\textbf{Type}** | **\textbf{Data Modalities}** | **\textbf{Annotations}**                  | **\textbf{URL}**                                                                        |
