@@ -1,14 +1,19 @@
-# SoTA-Semantically-aware-NeRFs
-[Journal Pre-print] Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
+# Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review [Journal Pre-print]
+Welcome to the official repository of **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review** (Journal Pre-print).
 
-Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Mohammed Bennamoun
+Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, [Mohammed Bennamoun](https://research-repository.uwa.edu.au/en/persons/mohammed-bennamoun)
 
 (*: Denotes equal contribution).
-
+  
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/89ed66ae-7f9c-4bec-a388-ad7a5fd650c9)
+
+<p style="text-align: center;">
 
 [[Paper]]() [[arXiv]](https://arxiv.org/) [[Website]](https://arxiv.org/)
 
+</p>
+
+This repository presents a comprehensive review of recent works in the field of Neural Radiance Fields (NeRFs), with a specific focus on the integration of semantic information for enhanced visual scene understanding. Neural radiance fields have demonstrated the potential of coordinate-based neural representation, also known as neural fields or implicit neural representation. Our review aims to provide a detailed analysis of the advancements in this area, shedding light on the significance of semantically-aware NeRFs in various applications.
 
 
 # 1. Comparative Overview of Previous NeRF Studies
