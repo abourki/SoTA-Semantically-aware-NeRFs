@@ -5,7 +5,7 @@ Thang-Anh-Quan Nguyen*, Amine Bourki*, Matyas Macudzinski, Anthony Brunel, Moham
 
 *: equal coontribution.
 
-![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f | width=800)
+![](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/e5f83286-2b00-49ef-95d7-eb987c99624f | width=800)
 
 
 
