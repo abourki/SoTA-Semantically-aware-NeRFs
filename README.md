@@ -69,7 +69,7 @@ Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respect
 | **[SUN RGB-D](https://rgbd.cs.princeton.edu/)**                                                            | CVPR 2015          | 47                    | 10.3K               | S+O                     | Indoor            | RGB-D                        | 2D/3D object boxes; 2D panoptic segmentation|
 | **[Shapenet](https://shapenet.org/)**                                                                      | arXiv 2015         | -                     | -                   | O                       | Objects           | CAD model                    | 3D part segmentation                      |
 | **[KITTI](https://www.cvlibs.net/datasets/kitti/)**                                                        | CVPR 2012          | 22                    | 15K                 | S+O                     | Urban             | RGB & LiDAR                  | 2D/3D object boxes; 2D panoptic segmentation|
-|------------------------------------------------------------------------------------------------------------|--------------------|-----------------------|---------------------|-------------------------|-------------------|------------------------------|-------------------------------------------|
+
 
 ## Citation
 If you find this work useful, please consider citing it in your research as follows:
