@@ -1,5 +1,7 @@
 # Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review [Journal Pre-print]
-Welcome to the official repository of our journal paper: [comment]: **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review** (Journal Pre-print).
+Welcome to the official repository of our journal paper: 
+
+[comment]: **Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review** (Journal Pre-print).
 
 ### Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review
 
