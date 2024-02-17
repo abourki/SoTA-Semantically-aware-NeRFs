@@ -86,4 +86,4 @@ If you find this work useful, please consider citing it in your research as foll
 
 
 ## Last Updates
-- **02/13/2024:** Initial release :rocket:.
+- **02/16/2024:** Initial release :rocket:.
