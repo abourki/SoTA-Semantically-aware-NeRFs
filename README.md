@@ -79,11 +79,11 @@ If you find this work useful, please consider citing it in your research as foll
 @inproceedings{SRFs2024,
   title={Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review},
   author={Nguyen, Thang-Anh-Quan and Bourki, Amine and Macudzinski, M\'aty\'as and Brunel, Anthony and Bennamoun, Mohammed},
-  journal={arXiv preprint arXiv:5414029},
+  journal={arXiv preprint arXiv:2402.11141},
   year={2024},
 }
 ```
 
 
 ## Last Updates
-- **02/16/2024:** Initial release :rocket:.
+- **02/17/2024:** Initial release :rocket:.
