@@ -23,7 +23,7 @@ We invite you to explore the wealth of information and insights offered by this 
 Please feel free to [contact me](mailto:amine.bourki@inception-lab.com), or open a [github issue](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/issues) if you have suggestions for improvements, insights, or if you'd like to contribute with new results or references!
 
 
-## 2. Comparative Overview of Previous NeRF Studies
+## 2. Comparative Analysis of Previous NeRF Studies
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/84cec94a-6c82-4307-b8c7-20dc37d0ea16)
 
