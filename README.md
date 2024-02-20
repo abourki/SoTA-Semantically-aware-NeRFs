@@ -41,7 +41,7 @@ O: Object Detection and 6D Pose, H: Holistic Decomposition, L: NeRFs and Languag
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/fff8b4a2-917f-4fde-9d53-04cc52f3eb34)
 
 
-## 4. Datasets and Evaluation
+## 4. Datasets
 
 ![image](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/assets/12202074/71ae6de8-ad3e-4015-aebb-05d998879cfd)
 
