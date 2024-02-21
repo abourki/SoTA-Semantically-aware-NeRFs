@@ -76,11 +76,13 @@ Legend: ‘Centricity’ refers to scene and/or object-centric datasets, respect
 If you find this work useful, please consider citing it in your research as follows:
 
 ```
-@inproceedings{SRFsota2024,
-  title={Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review},
-  author={Nguyen, Thang-Anh-Quan and Bourki, Amine and Macudzinski, M\'aty\'as and Brunel, Anthony and Bennamoun, Mohammed},
-  journal={arXiv preprint arXiv:2402.11141},
-  year={2024},
+@article{SRFsota2024,
+    title          = {Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review},
+    author         = {Thang-Anh-Quan Nguyen and Amine Bourki and M\'aty\'as Macudzinski and Anthony Brunel and Mohammed Bennamoun},
+    year           = {2024},
+    eprint         = {2402.11141},
+    archivePrefix  = {arXiv},
+    primaryClass   = {cs.CV}
 }
 ```
 
