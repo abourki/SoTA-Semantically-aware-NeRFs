@@ -17,7 +17,7 @@ $1$: Most up-to-date version with extended bibliography and additional contents.
 ## 1. Introduction
 This repository presents a comprehensive review of recent works in the field of Neural Radiance Fields (NeRFs), with a specific focus on the integration of semantic information for enhanced visual scene understanding. Neural radiance fields have demonstrated the potential of coordinate-based neural representation, also known as neural fields or implicit neural representation. Our review aims to provide a detailed analysis of the advancements in this area, shedding light on the significance of semantically-aware NeRFs in various applications.
 
-We invite you to explore the wealth of information and insights offered by this repository, which includes a curated list of papers, datasets, and comprehensive benchmark results related to semanticaly-aware NeRFs in the context of visual scene understanding.
+We invite you to explore the information and insights offered by this repository, which includes a curated list of papers, datasets, and comprehensive benchmark results related to semanticaly-aware NeRFs in the context of visual scene understanding.
 
 ### Contact
 Please feel free to [contact me](mailto:amine.bourki@inception-lab.com), or open a [github issue](https://github.com/abourki/SoTA-Semantically-aware-NeRFs/issues) if you have suggestions for improvements, insights, or if you'd like to contribute with new results or references!
