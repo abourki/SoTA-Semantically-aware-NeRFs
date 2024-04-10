@@ -93,5 +93,5 @@ If you find this work useful, please consider citing it in your research as foll
 
 
 ## Last Updates
-- **04/10/2024:** Added benchmarks for semantic, instance-level, and panoptic segmentation SRF methods for the Replica and ScanNet datasets :rocket:.
+- **04/10/2024:** Added benchmarks for semantic, instance-level, and panoptic segmentation SRFs on Replica and ScanNet :rocket:.
 - 02/17/2024: Initial release.
