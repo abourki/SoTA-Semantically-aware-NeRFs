@@ -93,4 +93,5 @@ If you find this work useful, please consider citing it in your research as foll
 
 
 ## Last Updates
-- **02/17/2024:** Initial release :rocket:.
+- **04/10/2024:** Added benchmarks for semantic, instance-level, and panoptic segmentation SRF methods :rocket:.
+- 02/17/2024: Initial release.
